@@ -28,6 +28,7 @@ body{
 
         section img{
             width: 40%;
+            rotate: 180deg;
         }
 
         section div{
